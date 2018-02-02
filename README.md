@@ -1,5 +1,5 @@
 # web-page-template
-Web page template for the photography.
+Web page template for photography.
 
 # STEPS:
    1. Download .zip file.
